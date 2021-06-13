@@ -1,0 +1,5 @@
+C:\Users\Origin PC\Projects\SubmittableTaskMay22\Task2\obj\Debug\net5.0\Cookie.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\SubmittableTaskMay22\Task2\obj\Debug\net5.0\Cookie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\SubmittableTaskMay22\Task2\obj\Debug\net5.0\Cookie.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\SubmittableTaskMay22\Task2\obj\Debug\net5.0\Cookie.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\SubmittableTaskMay22\Task2\obj\Debug\net5.0\Cookie.csproj.CoreCompileInputs.cache
