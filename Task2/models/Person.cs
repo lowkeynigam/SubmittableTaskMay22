@@ -9,15 +9,12 @@ namespace Task2.models
     public string dob { get; set; }
     public int height { get; set; }
 
-    public int id = Random.Next(1000,9999);
+    public Random rnd = rnd.Next(1000,9999); 
+    
 
-    public string GetFullName() {
-        return(Console.WriteLine(Person.firstname + "" + Person.surname));
-
+    public void GetFullName() {
     }
-    public int GetHeightDiff() {
-        return(Console.WriteLine(Person.height-Person.height));
-    }
+    public void GetHeightDiff() {}
 
         public Person(string firstname, string surname, string dob, int height, int id)
         {

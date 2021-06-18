@@ -14,16 +14,7 @@ namespace Task2
             Console.WriteLine("Enter the First names of the 2 people you'd like to compare the height of.");
            string input1 = Console.ReadLine();
            string input2 =  Console.ReadLine();
-            if (input1 && input2 == Person.firstname)
-            {
-                GetHeightDiff();
-            }
-            else
-            {
-                Console.WriteLine("Sorry, these people do not exist within the system.");
-            }
-
-
+           
 
         }
     }
