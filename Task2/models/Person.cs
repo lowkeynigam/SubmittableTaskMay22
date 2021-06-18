@@ -1,6 +1,6 @@
 using System;
 
-namespace Task2.models
+namespace Task2
 {
     public class Person
     {
@@ -9,8 +9,7 @@ namespace Task2.models
     public string dob { get; set; }
     public int height { get; set; }
 
-    public Random rnd = rnd.Next(1000,9999); 
-    
+     public Random rand = new Random();
 
     public void GetFullName() {
     }
