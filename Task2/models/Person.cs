@@ -16,13 +16,13 @@ namespace Task2.models
     }
     public void GetHeightDiff() {}
 
-        public Person(string firstname, string surname, string dob, int height, int id)
+        public Person(string firstname, string surname, string dob, int height, Random rnd)
         {
-            Firstname = firstname;
-            Surname = surname;
-            Dob = dob;
+            this.firstname = firstname;
+            this.surname = surname;
+            this.dob = dob;
             this.height = height;
-            this.id = id;
+            this.rnd = rnd;
         }
     }
 }
